@@ -1,0 +1,13 @@
+body {
+  background-color: brown;
+  font-family: Georgia, serif;
+  font-weight: 500;
+}
+.container {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  border: solid white;
+  border-width: 4px;
+}
